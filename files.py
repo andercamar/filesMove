@@ -1,7 +1,3 @@
-from numpy import source
-from pip import main
-
-
 from tkinter import filedialog
 import os
 import shutil
